@@ -13,41 +13,59 @@
   <img src="https://komarev.com/ghpvc/?username=bhunos&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 👨‍💻 About Me
+---
 
-I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/128/10599/10599032.png" width="13"/> Umuarama, Paraná, Brazil, passionate about creating exceptional user experiences and building innovative web solutions.
+## 👨‍💻 About Me
 
-### 🚀 Current Focus
+I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/128/10599/10599032.png" width="13"/> **Umuarama, Paraná, Brazil**, passionate about creating exceptional user experiences and building innovative web solutions.
 
-- Frontend Development with React & Next.js
-- Mobile Development with React Native
-- UI/UX Design Principles
-- Advanced TypeScript Patterns
+---
 
-### 📊 GitHub Stats
+## 🚀 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
+- 🌐 Frontend Development with **React & Next.js**
+- 📱 Mobile Development with **React Native**
+- 🎨 UI/UX Design Principles
+- ⚡ Advanced TypeScript Patterns
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=dracula&hide_border=true)
+---
 
-### 🐍 Contributions
+## 📊 GitHub Stats
 
-![Snake animation](https://github.com/bhunos/bhunos/blob/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-### 🎵 Currently Vibing To
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhunos&theme=dark&hide_border=true&background=0d1117)
 
-### 📫 Connect With Me
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhunos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
-<p align="left">
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/dbb894d89538441aa6ad823aa471e6d7)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
   <a href="https://www.linkedin.com/in/bruno-souza-8b9274123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:bruno.souzaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-</p>
+  
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
