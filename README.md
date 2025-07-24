@@ -32,7 +32,20 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
 
 ## 📊 GitHub Stats
 
+<table>
+<tr>
+<td>
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117)
+
+</td>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&custom_title=GitHub%20Stats)
+
+</td>
+</tr>
+</table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhunos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
 
