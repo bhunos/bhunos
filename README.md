@@ -30,7 +30,7 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=dracula&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhunos&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app/?user=bhunos&theme=dracula&hide_border=true&background=0D1117)
 
 ### 🐍 Contributions
 
