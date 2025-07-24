@@ -50,7 +50,7 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
   <a href="https://www.linkedin.com/in/bruno-souza-8b9274123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:bruno.souzaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
