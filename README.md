@@ -17,64 +17,42 @@
 
 I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/128/10599/10599032.png" width="13"/> Umuarama, Paraná, Brazil, passionate about creating exceptional user experiences and building innovative web solutions.
 
-### 📊 Minhas Estatísticas / My Stats
+### 🚀 Current Focus
+
+- Frontend Development with React & Next.js
+- Mobile Development with React Native
+- UI/UX Design Principles
+- Advanced TypeScript Patterns
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhunos&theme=radical&background=0D1117"/>
 </div>
 
-### ⌨️ Linguagens Mais Usadas / Most Used Languages
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
 </div>
 
-### 📈 Contribuições / Contributions
-
-![Snake animation](https://github.com/bhunos/bhunos/blob/output/github-contribution-grid-snake.svg)
-
 ### 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-bhunos.vercel.app/api/spotify)](https://open.spotify.com/user/dbb894d89538441aa6ad823aa471e6d7)
+[![Spotify](https://novatorem-git-main-bhunos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/dbb894d89538441aa6ad823aa471e6d7)
 
-### 🔭 Current Projects
-
-- 🚀 Working on exciting frontend projects
-- 💻 Contributing to open source
-- 📱 Exploring mobile development with React Native
-
-### 📊 Weekly Development Breakdown
-
-```text
-React       ████████████░░░░   60%
-TypeScript  ██████░░░░░░░░░░   30%
-Vue.js      ██░░░░░░░░░░░░░░   10%
-```
-
-### 📫 Como me encontrar / How to reach me
+### 📫 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bruno-souza-8b9274123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:seu.email@gmail.com">
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
 
-### 🌱 Atualmente Aprendendo / Currently Learning
+### 🐍 Contributions
 
-- 🎯 Advanced TypeScript Patterns
-- 🌐 Next.js 14
-- 📱 React Native
-- 🎨 UI/UX Design Principles
-
-### 👥 Visitantes / Visitors
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bhunos/count.svg" />
-</div>
+![Snake animation](https://github.com/bhunos/bhunos/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
