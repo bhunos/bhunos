@@ -1,95 +1,30 @@
-<div align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  <h1>Hey! Nice to see you</h1>
-</div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p align="center">
-  <a href="https://github.com/bhunos" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bhunos?label=Follow&style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-souza-8b9274123" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bhunos&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<p>Welcome to my page! </br> I'm Bruno, FrontEnd developer from <img src="https://cdn-icons-png.flaticon.com/128/10599/10599032.png" width="13"/> <b>Umuarama, Paraná, Brazil</b>.
+
+<h3>Programming languages</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-42b8a8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/-expo-1C2024?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
----
+## 🐍 Contribution Snake
 
-## 👨‍💻 About Me
-
-I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/128/10599/10599032.png" width="13"/> **Umuarama, Paraná, Brazil**, passionate about creating exceptional user experiences and building innovative web solutions.
+![Snake animation](https://github.com/bhunos/bhunos/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-## 🚀 Current Focus
-
-- 🌐 Frontend Development with **React & Next.js**
-- 📱 Mobile Development with **React Native**
-- 🎨 UI/UX Design Principles
-- ⚡ Advanced TypeScript Patterns
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)
-
-</td>
-<td>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhunos&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&sideLabels=c9d1d9&dates=c9d1d9)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhunos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Contribution%20Activity)
-
-### 📈 Complete Activity Overview
-
-<div align="center">
-
-![Contributions This Year](https://img.shields.io/badge/Contributions%20This%20Year-569-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Total Commits](https://img.shields.io/badge/Total%20Commits-850+-blue?style=for-the-badge&logo=git&logoColor=white)
-![Private Projects](https://img.shields.io/badge/Private%20Projects-15-orange?style=for-the-badge&logo=lock&logoColor=white)
-![Years Coding](https://img.shields.io/badge/Years%20Coding-3+-purple?style=for-the-badge&logo=calendar&logoColor=white)
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-52K+-red?style=for-the-badge&logo=code&logoColor=white)
-
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/dbb894d89538441aa6ad823aa471e6d7)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/bruno-souza-8b9274123" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:bruno.souzaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
