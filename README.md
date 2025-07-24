@@ -47,7 +47,7 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
 </tr>
 </table>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhunos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhunos&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&include_all_commits=true&count_private=true&theme=github-dark)
 
 ---
 
