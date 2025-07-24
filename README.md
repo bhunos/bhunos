@@ -27,17 +27,19 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhunos&theme=radical&background=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhunos&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ### 🎵 Currently Vibing To
 
-[![Spotify](https://novatorem-git-main-bhunos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/dbb894d89538441aa6ad823aa471e6d7)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="100%" />
+</a>
 
 ### 📫 Connect With Me
 
