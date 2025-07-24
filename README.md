@@ -40,9 +40,7 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
 
 ### 🎵 Currently Vibing To
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="100%" />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dbb894d89538441aa6ad823aa471e6d7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### 📫 Connect With Me
 
