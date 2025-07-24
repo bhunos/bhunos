@@ -27,15 +27,15 @@ I'm Bruno, a Frontend Developer from <img src="https://cdn-icons-png.flaticon.co
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=bhunos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhunos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=7200"/>
 </p>
 
 <p align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+  <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhunos&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=7200"/>
 </p>
 
 <p align="center">
-  <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhunos&theme=transparent&hide_border=true"/>
+  <img width="530em" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=bhunos&theme=dracula&hide_border=true"/>
 </p>
 
 ### 🎵 Currently Vibing To
